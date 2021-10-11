@@ -4,7 +4,7 @@ This is the computer code corresponding to the following publication:
 
 "Long-term stability of marine dissolved organic carbon emerges from a neutral network of compounds and microbes"  
 A. Mentges, C. Feenders, C. Deutsch, B. Blasius, T. Dittmar  
-Scientific Reports, 9, Article number: 17780 (2019) 
+Scientific Reports, 9, Article number: 17780 (2019)  
 doi: 10.1038/s41598-019-54290-z
 URL: https://www.nature.com/articles/s41598-019-54290-z
 
