@@ -14,4 +14,4 @@ The code is organized as follows:
 - "wrap_DOM_model" is a wrapper function which calls the ODE solver
 - "get_consumption_matrix" and "get_excretion_matrix" generate the network of uptake- and release abilities
 
-Note: we used an adapted version of the standard ode45 solver, which returns non-interpolated time steps for the accurate calculation of DOM age (due to license restrictions, we cannot share the code for this solver here).
+Note: we used an adapted version of the standard ode45 solver, which returns non-interpolated time steps for the accurate calculation of DOM age (see "ode45_.m").
